@@ -26,6 +26,10 @@
     color: #000000;
 }
 
+.post-form-blog input[type="text"] {
+    width: 100%;
+}
+
 .post-form-blog textarea {
     width: 100%;
 }
