@@ -34,3 +34,5 @@ class Comment(models.Model):
     def __str__(self):
         return self.text
 # Post.objects.get(pk=2).comments.all()
+
+
